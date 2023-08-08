@@ -20,4 +20,3 @@ class Punto:
     def calcular_distancia(self, otro_punto):
         distancia= math.sqrt((self.x - otro_punto.x)**2(self.y - otro_punto.y)**2)
 
-    
